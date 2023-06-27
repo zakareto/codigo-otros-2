@@ -27,9 +27,11 @@ body {
   margin: 10px 0;
   border: 5px solid #4b1248;
   border-radius: 5px;
-  padding: 0 5px;
   width: 400px;
-  margin: 20px
+  margin: 45px;
+  display:inline-block;
+  
+  
 }
 
 .elemento-lista input {
@@ -39,4 +41,19 @@ body {
   font-family: Verdana;
   margin: 10px 0;
   font-size: 16px;
+  
+}
+/*Se agregaron estilos para darle mejor diseño al html*/
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+.containerForm{
+  padding-left: 38%;
+}
+.containerGeneral{
+  padding: 5%;
+
 }
